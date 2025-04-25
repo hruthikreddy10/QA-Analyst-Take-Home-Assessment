@@ -79,6 +79,10 @@ The page should display the title "Confirm Number"
 **Actual Result:**  
 The title displayed is "Confirm Email"
 
+![MS BUG 1](img.jpeg)
+
+
+
 ---
 
 ### Bug #2: Incorrect Page Redirect After Valid Phone Number Entry
