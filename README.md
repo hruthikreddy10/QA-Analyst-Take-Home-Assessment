@@ -118,6 +118,10 @@ An error message should appear stating that the phone number exceeds the allowed
 **Actual Result:**  
 The form accepts the input without any validation error
 
+   ![Bug 3](bug3.jpeg)
+
+
+
 ---
 
 # Postman Notes – Linq QA Analyst Assessment
