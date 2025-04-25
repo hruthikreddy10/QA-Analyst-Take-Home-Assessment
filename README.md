@@ -98,6 +98,10 @@ The user should be directed to the "Confirm Number" page to enter the verificati
 **Actual Result:**  
 The user is redirected to the Sign Up page instead
 
+![Bug 2](Bug2.jpeg)
+
+
+
 ---
 
 ### Bug #3: No Error for Overlength Phone Number Entry
