@@ -136,6 +136,10 @@ The form accepts the input without any validation error
 - **Payload:** Not applicable for GET request.
 - **Response:** JSON containing product listings.
 
+  ![Bug 1](Postman1.jpeg) ![Bug 2](Postman2.jpeg)
+
+
+
 ---
 
 ## 2. Saving a Contact API
