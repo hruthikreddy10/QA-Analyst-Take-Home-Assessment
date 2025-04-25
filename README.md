@@ -159,6 +159,11 @@ The form accepts the input without any validation error
 - **Response:** 200 OK or 400 Bad Request if validation fails (e.g., duplicate phone or email).
 - **Note:** Both email and phone number must be unique. Creating a new user requires fresh data each time.
 
+
+![Bug 3](Postman3.jpeg) ![Bug 4](Postman4.png) ![Bug 5](Postman5.jpeg)
+
+
+
 ---
 
 ## Findings & Questions
